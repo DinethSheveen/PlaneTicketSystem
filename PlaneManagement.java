@@ -13,7 +13,7 @@ public class PlaneManagement {
     };
     /*Declaring an array (tickets object) of the Ticket class to store the tickets that are booked*/
     private static Ticket[] tickets=new Ticket[52];
-    
+
     //Declaring a variables to get the total price of  tickets
     private static int totalPrice;
 
